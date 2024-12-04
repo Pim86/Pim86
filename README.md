@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cynthia Albuquerque</h1>
 <h3 align="center">A passionate junior frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Food Buddy (mobile view only)](https://www.foodbuddyapp.me/)
-
 - 🌱 I’m currently learning **JS Stimulus and React**
-
-- 👯 I’m currently collaborating on **CDM - Critical Document Manager**
 
 - 👨‍💻 All of my projects are available at [https://www.notion.so/Cynthia-Albuquerque-Web-Development-b3c91da03fe044809e17787ec458d524?pvs=4](https://www.notion.so/Cynthia-Albuquerque-Web-Development-b3c91da03fe044809e17787ec458d524?pvs=4)
 
