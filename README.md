@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JS Stimulus and React**
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/Cynthia-Albuquerque-Web-Development-b3c91da03fe044809e17787ec458d524?pvs=4](https://www.notion.so/Cynthia-Albuquerque-Web-Development-b3c91da03fe044809e17787ec458d524?pvs=4)
+- 👨‍💻 All of my projects are available at https://www.canva.com/design/DAGU8rmaSHA/RgCeHp1U6PA17-MJAA5VRA/view?utm_content=DAGU8rmaSHA&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 - 📫 How to reach me **cynthia.alb25@gmail.com**
 
